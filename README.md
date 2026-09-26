@@ -7,6 +7,7 @@ I build and experiment with AI-agent workflows, coding agents, model orchestrati
 My current research focus is **Local Evolution Core**: an experimental framework for studying whether AI systems can improve persistent parts of their local operating environment—such as prompts, tools, strategies, memory, workflows, and evaluation procedures—while keeping the underlying frontier model unchanged.
 
 > I treat recursive / iterative improvement as a research question, not a demonstrated result. Public claims here distinguish ongoing experiments from validated findings.
+https://kamal63442.github.io/portfolio/
 
 ## Current research
 
